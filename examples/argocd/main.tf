@@ -5,7 +5,7 @@ provider "helm" {
 }
 
 module "argocd_release" {
-  source = "../../modules/helm/helm_release"
+  source = "../../modules/helm_release"
 
   release_name = var.release_name
 

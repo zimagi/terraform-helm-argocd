@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"platform_chart","Source":"../..","Dir":"../.."},{"Key":"platform_chart.argocd_release","Source":"./modules/helm_release","Dir":"../../modules/helm_release"},{"Key":"platform_chart.argocd_apps_release","Source":"./modules/helm_release","Dir":"../../modules/helm_release"}]}
